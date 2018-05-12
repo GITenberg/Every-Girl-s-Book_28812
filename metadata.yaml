@@ -1,0 +1,26 @@
+_repo: Every-Girl-s-Book_28812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, George Frank
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '33539'
+    url: http://www.gutenberg.org/2009/agents/33539
+description: ''
+gutenberg_issued: '2009-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex instruction'
+- !lcc 'HQ'
+title: Every Girl's Book
+url: http://www.gutenberg.org/ebooks/28812
